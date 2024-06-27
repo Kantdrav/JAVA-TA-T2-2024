@@ -1,6 +1,6 @@
 // Abstract Classes Example
 abstract class Animal {
-    abstract void makeSound();
+    abstract void makeSound();// default abstract
 
     void sleep() {
         System.out.println("Animal is sleeping");
